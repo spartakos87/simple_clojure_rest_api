@@ -16,7 +16,7 @@ To start a web server for the application, run:
 
 Exampe request,
 
-http://localhost:3000/user?str1="serepas"&str2="se"
-## License
+http://localhost:3000/user?str1="katas"&str2="steak"
 
-Copyright © 2018 FIXME
+That returns true if a portion of str1 characters can be rearranged to match str2, otherwise returns false
+
